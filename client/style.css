@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #4380c1;
+  background: #43bcce;
 }
 
 #app {
@@ -50,7 +50,7 @@ body {
 }
 
 .ai {
-  background: #40414F;
+  background: #353641;
 }
 
 .chat {
@@ -117,7 +117,7 @@ form {
   max-width: 1280px;
   margin: 0 auto;
   padding: 10px;
-  background: #40414F;
+  background: #603556;
 
   display: flex;
   flex-direction: row;
